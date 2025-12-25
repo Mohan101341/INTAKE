@@ -6,4 +6,4 @@ To resolve this, please ensure that you have write access to the repository on G
 1.  **Be added as a collaborator** to the `Mohan101341/INTAKE` repository.
 2.  **Verify your GitHub credentials**: If you are using HTTPS, ensure your personal access token (PAT) has the correct scope and is configured correctly. If you are using SSH, ensure your SSH key is properly set up and added to your GitHub account.
 
-Once the permissions are corrected, you can try pushing again by running `git push origin saifinal` in your terminal.
+Once the permissions are corrected, you can try pushing again by running `git push origin sai2` in your terminal.
